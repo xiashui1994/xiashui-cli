@@ -1,0 +1,24 @@
+{
+  "name": "xiashui-cli",
+  "version": "1.0.0",
+  "description": "项目脚手架初始化工具",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xiashui",
+  "bin": {
+    "xiashui": "bin/index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "handlebars": "^4.1.0",
+    "inquirer": "^6.2.2",
+    "log-symbols": "^2.2.0",
+    "ora": "^3.1.0"
+  }
+}

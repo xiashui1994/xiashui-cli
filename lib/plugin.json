@@ -1,0 +1,11 @@
+{
+  "wxParse": {
+    "downloadUrl": "https://github.com:xiashui1994/wxParse#master"
+  },
+  "ec-canvas": {
+    "downloadUrl": "https://github.com:xiashui1994/ec-canvas#master"
+  },
+  "wx-charts": {
+    "downloadUrl": "https://github.com:xiashui1994/wx-charts#master"
+  }
+}

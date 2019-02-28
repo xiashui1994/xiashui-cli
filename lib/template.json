@@ -1,0 +1,10 @@
+{
+  "miniprogram": {
+    "description": "小程序框架",
+    "downloadUrl": "https://github.com:xiashui1994/miniprogram-scaffold#master"
+  },
+  "webapp": {
+    "description": "h5框架",
+    "downloadUrl": "https://github.com:xiashui1994/webapp-scaffold#master"
+  }
+}
